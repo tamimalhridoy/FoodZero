@@ -1,0 +1,12 @@
+colors: {
+        primary: halka black,
+        secondary: Olive,
+        brand: Hex",
+      }
+fontFamily: {
+      primary: Rufina, serif,
+    }
+
+============================================
+            Start Now Project
+============================================
